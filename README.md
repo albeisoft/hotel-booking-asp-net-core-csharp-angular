@@ -32,4 +32,4 @@ Run this command in a Visual Studio terminal (any change you make to the HTML, C
 
 ng serve
 
-Then go to https://localhost:5001/ from your browser and see the web application (if you start with IIS Express will open automatically a web broser with link to the web application).
+Then go to https://localhost:5001/ from your browser and see the web application (if you start with IIS Express will open automatically a web browser with link to the web application).
