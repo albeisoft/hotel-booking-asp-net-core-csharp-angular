@@ -1,5 +1,5 @@
 Hotel Booking - ASP .NET Core with C# and SPA [Single Page Application] with Angular (hotel-booking-asp-net-core-csharp-angular) is a version of example of web application for Hotel Reservation (Hotel Booking) created on:
-- back end (server side) with ASP .NET Core with C# and Web API (a framework that help to create and develop HTTP based RESTfull services, Web Services), used ASP.NET Core Identity for authentication (authorization, roles, etc.), .NET Core version 5.x.
+- back end (server side) with ASP .NET Core with C# and Web API (a framework that help to create and develop HTTP based RESTful services, Web Services), used ASP.NET Core Identity for authentication (authorization, roles, etc.), .NET Core version 5.x.
 - front end (client side, browser side) with JavaScript and Angular (version 8.x) that is an JavaScript Framework, Angular framework is embedded with original MVC [Model View Controller] but it's more of an MVVM [Model View ViewModel] software architectural setup; also used Angular Material UI: Material Data Table (better data table with filter, pagination, etc.), Material Date Picker (Date picker need in some forms), moment.js (for date formating and date processing with Angular).
 - database: SQL Server. 
 
