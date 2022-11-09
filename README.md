@@ -28,10 +28,10 @@ dotnet run
 
 Run (compile) front end scripts
 
-Run this command in a Visual Studio terminal (any change you make to the HTML, CSS, JavaScript, Angular code will be reflected immediately in the page you see in your browser):
+The front end Angular code is in subdirectory ClientApp of HotelBooking directory.
+
+Run this command from ClientApp folder in a Visual Studio terminal (any change you make to the HTML, CSS, JavaScript, Angular code will be reflected immediately in the page you see in your browser):
 
 ng serve
 
 Then go to https://localhost:5001/ from your browser and see the web application (if you start with IIS Express will open automatically a web browser with link to the web application).
-
-The front end Angular code is in subdirectory ClientApp of HotelBooking directory.
