@@ -30,6 +30,10 @@ Run (compile) front end scripts
 
 The front end Angular code is in subdirectory ClientApp of HotelBooking directory.
 
+First install node packages with next command in a terminal from ClientApp folder:
+
+npm install
+
 Run this command from ClientApp folder in a Visual Studio terminal (any change you make to the HTML, CSS, JavaScript, Angular code will be reflected immediately in the page you see in your browser):
 
 ng serve
