@@ -70,7 +70,7 @@ export class ClientsComponent implements OnInit {
         "",
         [
           Validators.required,
-          Validators.minLength(2),
+          Validators.minLength(5),
           Validators.pattern("[a-zA-Z ]*"),
         ],
       ],
