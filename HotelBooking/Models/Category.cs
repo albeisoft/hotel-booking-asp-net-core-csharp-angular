@@ -17,7 +17,7 @@ namespace HotelBooking.Models
 
         [Required(ErrorMessage = "Name is required.")]
         //[StringLength(100)]
-        [StringLength(100, MinimumLength = 5, ErrorMessage = "{0} length must be between {2} and {1}.")]
+        [StringLength(100, MinimumLength = 2, ErrorMessage = "{0} length must be between {2} and {1}.")]
         public string Name { get; set; }
 
         // [JsonProperty("categoryPrice")]
